@@ -24,7 +24,7 @@ function Navbar({ title }) {
 							Home
 						</Link>
 						<Link
-							to='/'
+							to='/about'
 							className='bnt btn-ghost rounded-btn btn-sm flex items-center'>
 							About
 						</Link>
